@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🇲🇽 Mexico born, raised and based.<br>✉️  Get in touch, alejandro_riveraz@ciencias.unam.mx<br>🤖​ AI, cyber security, free software, advanced math and the like, between my professional interests. <br>📖​ Books, music, Go, nature and video games are some of the things I like the most.<br>🇯🇵​ Japanese learner.</p>
+<p align="left">🇲🇽 Mexico born, raised and based.<br>✉️  Get in touch, alejandro_riveraz@ciencias.unam.mx<br>🤖​ AI, cyber security, free software, advanced math and the like, between my professional interests. <br>📖​ Books, music, Go, nature and video games are some of the things I like the most.<br>🇯🇵​ Japanese language learner.</p>
 
 ###
 
